@@ -13,27 +13,9 @@ Open your terminal and run:
 git clone https://github.com/Ashitha0409/DAY2_CC_bootcamp.git
 ```
 
----
-
-## 📂 Move into the Folder
-
-```bash
-cd DAY2_CC_bootcamp
-```
-
----
-
-## ▶️ Open in VS Code
-
-```bash
-code .
-```
-
----
-
 ## 🌐 Run the App
 
-Open `index.html` in your browser or use a live server extension in VS Code.
+Open `index.html` in your browser or use a live server extension in VS Code. (can also press Run from the top bar)
 
 The app includes:
 - A user form to submit name and email
@@ -52,4 +34,4 @@ The app includes:
 
 ## 🙌 Let's Build Together!
 
-If you face any issues, just drop a message 👍
+If you face any issues, just drop a message in mentor mentee grp
