@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Form App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Web Development Bootcamp</h1>
+    
+    <section class="gallery">
+        
+            <img src="html.png" alt="HTML" width="200" height="200">
+
+        <ol>
+          <li>HTML</li>
+            <li>CSS</li>
+            <li>JS</li>
+        </ol>
+    </section>
+    <h2>User Form</h2>
+    <form id="userForm">
+        <label for="name">Name:</label>
+        <input type="text" id="name" required>
+        <label for="email">Email:</label>
+        <input type="email" id="email" required>
+        <button type="submit">Submit</button>
+    </form>
+    <div id="output"></div>
+    <section class="calculator">
+        <h3>Sum Calculator</h3>
+        <input type="number" id="a" placeholder="Enter A">
+        <input type="number" id="b" placeholder="Enter B">
+        <button id="calcBtn">Calculate Sum</button>
+        <div id="sumOutput"></div>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>
